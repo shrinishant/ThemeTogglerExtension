@@ -1,0 +1,13 @@
+{
+    "name": "Theme Toggler",
+    "description": "Tired of manually changing the theme through coe",
+    "version": "1",
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab", "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Theme Toggler"
+    }
+  }
